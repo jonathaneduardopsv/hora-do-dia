@@ -22,3 +22,7 @@ footer{
     text-align: center;
     font-style: italic;
 }
+#msg{
+    text-align: center;
+    font-weight: bold;
+}
